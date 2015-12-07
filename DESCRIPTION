@@ -1,8 +1,8 @@
 Package: RTCGA.mutations
 Type: Package
 Title: Mutations datasets from The Cancer Genome Atlas Project
-Version: 20150821.1.1
-Date: 2015-11-16
+Version: 20151101.0.0
+Date: 2015-12-06
 Author: Marcin Kosinski <m.p.kosinski@gmail.com>
 Maintainer: Marcin Kosinski <m.p.kosinski@gmail.com>
 Description: Package provides mutations datasets from The Cancer Genome
